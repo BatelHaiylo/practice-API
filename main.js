@@ -71,8 +71,12 @@ async function getHotels(){
         .then(response => console.log(response))
         .catch(err => console.error(err));
 }
-getHotels()
 
-function printHotels(){
-    const hotelsArr = 
-}
+
+// function printHotels(){
+//     const hotelsArr = getHotels()
+// }
+
+
+
+
